@@ -1,5 +1,6 @@
 Menyusun rancangan SE Profiling Pengusaha BKC
 Rapat pembahasan
 Penyusunan jadwal pembahasan
-Hari senin mengundang Dit KBP
 Senin Siang menyusunan draft coding
+Membuat prototype aplikasi profiling cukai
+mendaftar akun forge laravel dan digital ocean
