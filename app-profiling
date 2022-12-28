@@ -6,3 +6,7 @@ Rencana membuat aplikasi Profil
   b. Pilih node
 4. install laravel
 5. install forge
+  a. register forge
+  b. create repository in github
+  c. deploy laravel to DO
+6. Membuat Framework javasccript
